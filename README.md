@@ -1,4 +1,4 @@
-# coding-agents-neon-ai-gateway
+# Use Neon AI Gateway as the model provider for coding agents on Agent37
 
 Claude Code, Codex, and OpenCode on [Agent37](https://www.agent37.com/docs), with every model call going through [Neon AI Gateway](https://neon.com/docs/ai-gateway/overview). Each agent gets its own revocable Neon credential, which reaches Claude, GPT, Gemini, and open-weight models with no provider keys.
 
